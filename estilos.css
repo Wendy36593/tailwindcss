@@ -1,0 +1,12 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.btn{
+    @apply bg-blue-500 text-base font-bold;
+}
+.menu elemento{
+    @apply bg-gray-400 text-base font-bold;
+}

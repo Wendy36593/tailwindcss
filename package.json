@@ -1,11 +1,14 @@
 {
   "name": "tailwind",
   "version": "1.0.0",
-  "description": "",
+  "description": "aprendiendo npm",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": " wendy pineda",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^1.4.6"
+  }
 }
